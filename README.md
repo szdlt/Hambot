@@ -1,6 +1,6 @@
-# mbit
+# hambot
 
-Extension for Yahboom mbit V3.0.2
+Extension for DeepLink hambot V3.0.2
 
 ## License
 
